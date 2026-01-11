@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A5B7B7002F1443A100460FD0 /* LocalizationDemo */ = {
+		A5B7B72A2F14454200460FD0 /* LocalizationDemo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = LocalizationDemo;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		A5B7B6F52F1443A100460FD0 = {
 			isa = PBXGroup;
 			children = (
-				A5B7B7002F1443A100460FD0 /* LocalizationDemo */,
+				A5B7B72A2F14454200460FD0 /* LocalizationDemo */,
 				A5B7B6FF2F1443A100460FD0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A5B7B7002F1443A100460FD0 /* LocalizationDemo */,
+				A5B7B72A2F14454200460FD0 /* LocalizationDemo */,
 			);
 			name = LocalizationDemo;
 			packageProductDependencies = (
@@ -91,6 +91,10 @@
 			knownRegions = (
 				en,
 				Base,
+				es,
+				ar,
+				ja,
+				ru,
 			);
 			mainGroup = A5B7B6F52F1443A100460FD0;
 			minimizedProjectReferenceProxies = 1;
@@ -185,6 +189,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -242,6 +247,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
