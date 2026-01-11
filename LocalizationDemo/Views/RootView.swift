@@ -9,7 +9,6 @@ struct RootView: View {
         }
         .environment(\.locale, Locale(identifier: settingsVM.selectedLanguage.identifier))
         .environment(\.layoutDirection, settingsVM.selectedLanguage.direction)
-//        .id(settingsVM.selectedLanguage.identifier)
     }
 }
 
