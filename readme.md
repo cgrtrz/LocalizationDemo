@@ -145,10 +145,8 @@ This automatically adapts to language-specific plural rules:
 
 ## 🎥 Demo Video
 
-Upload a short screen recording to GitHub and link it here:
-
 ```
-https://github.com/USERNAME/LocalizationDemo/assets/XXXXX/demo.mp4
+https://github.com/user-attachments/assets/e7f3b2b5-f815-4478-b742-8b7c526c9732
 ```
 
 ---
