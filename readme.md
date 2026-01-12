@@ -131,21 +131,15 @@ This automatically adapts to language-specific plural rules:
 
 ## 📸 Screenshots
 
-> Add your screenshots here
-
-```
-Screenshots/
-├── home_en.png
-├── home_ar.png
-├── settings.png
-```
-
-Example Markdown:
-
-```md
-![Home EN](Screenshots/home_en.png)
-![Home AR](Screenshots/home_ar.png)
-```
+<p align="center">
+  <img src="Screenshots/1.png" width="260" />
+  <img src="Screenshots/2.png" width="260" />
+  <img src="Screenshots/3.png" width="260" />
+  <img src="Screenshots/4.png" width="260" />
+  <img src="Screenshots/5.png" width="260" />
+  <img src="Screenshots/6.png" width="260" />
+  <img src="Screenshots/6.png" width="260" />
+</p>
 
 ---
 
