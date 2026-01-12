@@ -138,7 +138,7 @@ This automatically adapts to language-specific plural rules:
   <img src="Screenshots/4.png" width="260" />
   <img src="Screenshots/5.png" width="260" />
   <img src="Screenshots/6.png" width="260" />
-  <img src="Screenshots/6.png" width="260" />
+  <img src="Screenshots/7.png" width="260" />
 </p>
 
 ---
